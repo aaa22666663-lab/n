@@ -1,0 +1,6 @@
+{
+  "name": "قلعتا الفوكسل - حرب المكعبات",
+  "description": "لعبة قتال وبناء مكعبات ثلاثية الأبعاد قابلة للتدمير مستوحاة من أسلوب روبلوكس مع تخصيص الأسلحة واستوديو التصميم.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
